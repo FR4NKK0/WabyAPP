@@ -13,7 +13,9 @@
 Aplicación enfocada al seguimiento de ejercicios de calistenia y gimnasio. Brinda al usuario las herramientas para registrar su progreso en diferentes ejercicios, tambien está enfocada para entrenadores/monitores con el fin de crear rutinas para los alumnos. 
 
 ### Modelo 
-
+<picture>
+  <img src = "https://github.com/FR4NKK0/WabyAPP/blob/main/Waby%20diagrama%20de%20clases.drawio.png">
+</picture>
 
 ## Alcance funcional
 
