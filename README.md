@@ -6,7 +6,7 @@
 * 51881 - Palamidessi, Elias Rene
 
 ### Repositorios
-* [fullstack app](https://github.com/FR4NKK0/WabyAPP)
+* [fullstack app](https://github.com/Eliasusu/Fullstack-app-Waby)
 
 ## Tema
 ### Descripción
